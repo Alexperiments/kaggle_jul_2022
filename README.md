@@ -22,3 +22,4 @@ Tabular Playground Series - Jul 2022
 - [x] Reverse auto-encoder (decoder-encoder) to map the features in a higher-dimensional space
 - [x] Starting from our best prediction (~0.61) train a BGMClassifier and then fit-predict the data
 - [x] Combine the previous step with soft voting
+- [x] Use the best prediction as labels iteratively (this improves the public score but probably it is probably overfitting)
