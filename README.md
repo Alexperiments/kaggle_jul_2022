@@ -2,7 +2,7 @@
 Tabular Playground Series - Jul 2022
 
 
-## Best model so far: BGM for meta labels, MLP (400, 200, 100) for supervised classification
+## Best model so far: BGM for meta labels, BGM classifier and soft voting on ~10 ensambles for the final supervised classification
 ## Public Score: 0.81193
 
 ## Tasks
